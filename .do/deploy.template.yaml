@@ -5,5 +5,5 @@ spec:
     environment_slug: hugo
     git:
       branch: main
-      repo_clone_url: https://github.com/digitalocean/sample-hugo.git
+      repo_clone_url: https://github.com/crysuno/sample-hugo.git
     name: sample-hugo
